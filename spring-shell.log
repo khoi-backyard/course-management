@@ -1,0 +1,591 @@
+1574658040241:help
+1574658042042:clear
+1574658043161:exit
+1574658129765:help
+1574658133354:add 3 4
+1574658135777:add 3 3 3
+1574658139834:add 2 2
+1574658719873:ipt
+1574658720958:script
+1574658722326:help
+1574674025640:elp
+1574674026839:help
+1574674451905:yop
+1574674452866:help
+1574674561355:ls -la
+1574674583377:ls
+1574674584283:help
+1574687817264:create
+1574687971967:help
+1574687974386:course create
+1574688107531:help
+1574688204830:course create --help
+1574688207185:course create
+1574688337194:create course
+1574688341125:course
+1574688344055:course create
+1574688349779:course create --help
+1574688355726:course create --code a
+1574688359854:course craete --code ASD
+1574688367859:course create --code ASD
+1574688405010:help course create
+1574688411209:help "course create"
+1574688427992:help
+1574688430528:help course-craete
+1574688432948:help course-create
+1574688722019:course-create ABC
+1574689298868:help course-create
+1574689316909:course-create ABC
+1574689341078:course-create AAA
+1574689511181:stacktrace
+1574689553738:create-course AAA
+1574689556312:stracktrace
+1574689557842:stacktrace
+1574689563616:course-create AAA
+1574689663769:course-create BBB
+1575209278134:help
+1575209318864:help course-create
+1575209323651:course-create --code ABC
+1575209517486:course-create
+1575209519649:help course-create
+1575209663858:course-create --code AAA
+1575209674380:course-create --code AAA --name "test"
+1575209683189:course-create --code AAB --name "test"
+1575210110727:course-create --code AAA --name "test"
+1575210120049:course-create --code AAA --name "test" --campus "SGS"
+1575210126996:course-create --code AAB --name "test" --campus "SGS"
+1575210130937:course-create --code AAA --name "test" --campus "SGA"
+1575210136942:course-create --code ABA --name "test" --campus "SGC"
+1575210315271:a
+1575210323131:course-create --code AAB --name "test" --campus "SGC"
+1575210359572:acourse-create --code AAA --name "test" --campus "SGS"
+1575210360437:course-create --code AAA --name "test" --campus "SGS"
+1575210365578:course-create --code AXA --name "test" --campus "XGS"
+1575210427665:course-create --code AAA --name "test" --campus "SGS"
+1575210431346:course-create --code AAB --name "test" --campus "SGS"
+1575210435469:stacktrace
+1575210477392:course-create --code AAA --name "test" --campus "SGS"
+1575210479108:course-create --code AAA --name "test" --campus "SGA"
+1575210482117:course-create --code AAB --name "test" --campus "SGS"
+1575210487877:course-create --code AAX --name "test" --campus "SGA"
+1575212863938:help
+1575212869353:course-assing-
+1575212878928:help course-assign-director
+1575212946446:course-assign-director 3 3
+1575213421204:help
+1575213428630:course-assign-director
+1575213440943:help course-assign-director
+1575213459095:course-assign-director 10 2
+1575213583363:course-assign-director 1 2
+1575213617089:course-assign-director 10 2
+1575213651146:course-assign-director 1 2
+1575214099272:"Course{}";
+1575214102072:course-assign-director 1 2
+1575214672318:staff-list
+1575214675363:help
+1575214712747:courseService
+1575214715456:help
+1575214717757:staff-list
+1575215065938:list-staffs
+1575215067309:staff-list
+1575215557419:coures
+1575215559470:course-list
+1575215592281:list
+1575215594245:staff-list
+1575215597932:course-lsit
+1575215599616:course-list
+1575217364216:staff-list
+1575217366645:staff-get 8
+1575217369613:staff-get 7
+1575217374715:staff-get 23
+1575217825719:help
+1575217828639:staff-list
+1575217830736:staff-get 8
+1575217832516:course-list
+1575217847639:course-get 1
+1575217864950:course-list
+1575217898299:course-get 10
+1575219495170:unit-list
+1575219496725:unit-get
+1575220410276:help
+1575220412256:unit-list
+1575220414172:unit-create
+1575220426165:unit-create CSAS
+1575220433183:unit-create CASD 0001
+1575220439066:unit-create EEET 0001
+1575220461884:unit-create COSC 0001
+1575220543828:unit
+1575220544982:help
+1575220549091:unit-create CASD 0001
+1575220551281:uniqueConstraints = {
+1575220560221:unit-create CASD 0001
+1575220561808:unit-create CASD 0002
+1575220566861:unit-create EEET 0001
+1575220567912:unit-create CASD 0001
+1575220570880:unit-create EET 0001
+1575220576049:unit-create EEET 0001
+1575220579747:unit-create COSC 0001
+1575220626099:unit-create EEET 0001
+1575220651834:help unit-create
+1575220859215:unit-create
+1575220865117:unit-create ASDF 2222
+1575220926560:help
+1575220931000:unit-create COSC 0001
+1575220934196:unit-create COSC 0002
+1575220941866:unit-create EEEQ 00001
+1575220947245:unit-create EEEQ 0001
+1575220950325:unit-create OENG 0001
+1575221014468:unit list
+1575221015834:unit-list
+1575221018921:unit
+1575221020721:help unit
+1575221021677:help
+1575221147603:unit list
+1575221149437:unit-list
+1575221153597:staff-list
+1575221156640:unit-list
+1575221163312:unit-assign-examiner
+1575221170536:unit-assign-examiner 9 1
+1575221178357:unit-assign examiner 9 2
+1575221188517:unit-assign-examiner 9 2
+1575221197387:unit-assign-lecturer 9 2
+1575221243100:unit-assign-lecturer 9 3
+1575221244595:unit-assign-lecturer 9 2
+1575221260009:unit-assign-lecturer 9 4
+1575221270619:unit-assign-lecturer 9 3
+1575221277289:unit-assign-lecturer 10 4
+1575221288586:unit-assign-examiner 9 2
+1575221290736:unit-assign-examiner 9 3
+1575221321489:unit-assign-examiner 9 2
+1575221329035:unit-assign-examiner 9 3
+1575221393352:help
+1575221396829:course-list
+1575221400724:course-create
+1575221405621:course-create COSC 0001
+1575221410958:help course-create
+1575221424263:course-create ABC "NAME SOME CUORSE" SGS
+1575221425694:course list
+1575221428106:course-list
+1575221432737:course-assign-direc
+1575221434326:help course
+1575221435212:help
+1575221442219:course-assign-deputy 1 1
+1575221445841:course-list
+1575221450587:course-assign-deputy 13 1
+1575221453132:Multiple representations of the same entity
+1575221457878:course-assign-directory 13 1
+1575221464745:help
+1575221470997:course-assign-director 13 1
+1575221474789:course-assign-deputy 13 1
+1575221590369:nit-list
+1575221591997:unit-list
+1575221595760:help unit
+1575221598634:unit-assign-examiner 9 2
+1575221606508:unit-assign-lecturer 9 2
+1575221935233:nit-create
+1575221938015:unit-create COSC 0001
+1575221947928:unit-create COSC 0002
+1575221953003:unit-create COSC 00004
+1575221959884:unit-create COSC 0005
+1575221964892:unit create COSC 10001
+1575221968521:unit create COSC 1001
+1575221973489:unit-create COSC 1001
+1575221976505:unit-create COSC 3001
+1575222013477:help
+1575222017492:unit-get 2
+1575222019223:unit-get 1
+1575222021893:unit-list
+1575222025098:unit-get 9
+1575222253447:unit-list
+1575222256883:unit-delete 18
+1575222336475:unit
+1575222340225:unit-list
+1575222342060:unit-delete 18
+1575222345249:unit-delete 15
+1575222347336:unit-list
+1575222458356:course-list
+1575222461356:course-delete 13
+1575222463479:course-list
+1575257033256:help
+1575257035641:unit-list
+1575257036833:course-list
+1575257038252:help
+1575257049003:course-create help
+1575257051070:help course-create
+1575257092415:course-create
+1575257098146:course-create COSC
+1575257122346:course-create COSC "Software ENgineering"
+1575257131868:course-create COSC "Software ENgineering" SGS
+1575257136293:course-create COSC "Software ENgineering" HN
+1575257170076:course-list
+1575257178332:course-assign-director 1
+1575257182448:course-assign-director 9 1
+1575257191120:course-assign-deputy 9 1
+1575257195717:course-assign-deputy 9 2
+1575257197893:course-list
+1575257210225:unit-list
+1575257214787:unit-createhelp
+1575257216506:help unit-create
+1575257628870:unit-list
+1575257632687:help unit-create
+1575257724601:unit-create 1001 "SE Architecutre" 1
+1575257750649:stacktrace
+1575257777775:unit-create 1001 "SE Architecutre" 1
+1575257883439:help unit-create
+1575257934352:unit-create 1001 "SE Architecutre" 1
+1575257938406:course-list
+1575257940150:unit-create 1001 "SE Architecutre" 9
+1575257954758:unit-list
+1575258014879:help
+1575258022967:unit-assign-examiner 10 1
+1575258035932:unit-assign-lecturer 10 1
+1575258039378:unit-list
+1575258102112:unit-get 10
+1575258163928:unit-list
+1575258174705:unit-get 10
+1575258581599:lp
+1575258582675:help
+1575258585706:course-list
+1575258588674:course-get-units 9
+1575258594544:stacktrace
+1575258609962:course-get-units 9
+1575258667907:help
+1575258671475:course-get-units 9
+1575258684036:unit-create
+1575258692753:unit-create 1002 "Software Management" 9
+1575258696956:course-get-units 9
+1575259183078:help
+1575259301511:heklop
+1575259301873:help
+1575259670023:help staff-list
+1575259673168:staff-list
+1575259676758:help
+1575259682351:staff-get 4
+1575259688199:course-list
+1575259697767:help course-create
+1575259723350:course-create --code "COSC" "Information Technology" S
+1575259727624:course-create --code "COSC" "Information Technology" SG
+1575259728983:course-create --code "COSC" "Information Technology" SGS
+1575259731899:course-list
+1575259767704:help
+1575259770702:staff-list
+1575259773707:staff-get 3
+1575259775868:help
+1575259780317:course-list
+1575259784041:course-get 9
+1575259788434:help course-create
+1575259799505:course-create "EEET" "Electrical Engineering" H
+1575259801784:course-create "EEET" "Electrical Engineering" HN
+1575259803921:course-list
+1575259808927:help
+1575259815878:help course-assign-deputy
+1575259859091:help
+1575259864119:staff-list
+1575259867595:staff-get 2
+1575259871864:help
+1575259875558:course-list
+1575259878982:help course-create
+1575259887802:course-create "COSC" "Information Technology" S
+1575259890076:course-create "COSC" "Information Technology" SGS
+1575259891947:course-list
+1575259895117:help
+1575259904707:help course-assign-deputy
+1575259911276:course-assign-deputy 9 1
+1575259915763:course-assign-director 9 1
+1575259920148:course-assign-director 9 2
+1575259923406:course-get 9
+1575259927249:help
+1575259935025:help course-get-units
+1575259938819:course-get-units 9
+1575259942076:unit-list
+1575259945731:help unit-create
+1575259963623:unit-create 4001 "Database Concepts" 9
+1575259967440:unit-create 0001 "Database Concepts" 9
+1575259970665:unit-create 3001 "Database Concepts" 9
+1575259975040:course-get-units 9
+1575259982350:unit-assign-examiner
+1575259989974:unit-assign-examiner 10 3
+1575259998778:unit-assign-lecturer 10 3
+1575260005222:course-get-units 9
+1575260008942:help
+1575260013644:unit-list
+1575260015980:unit-delete 10
+1575260018731:unit-list
+1575260055532:unit-delete 10
+1575260057436:unit-list
+1575260145215:unit-delete 10
+1575260156767:unit-list
+1575260278692:unit-delet 10
+1575260280496:unit-delete 10
+1575260286239:unit-list
+1575260310085:unit-delete 10
+1575260312452:unit-list
+1575260359506:unit-delete 10
+1575260360839:unit-list
+1575260432028:help
+1575260437007:staff-list
+1575260439966:staff-get 8
+1575260442657:staff-get 10
+1575260447445:course-list
+1575260451180:help course-create
+1575260460551:course-create "COSC" "Information Technology" S
+1575260463700:course-create "COSC" "Information Technology" SA
+1575260465568:course-create "COSC" "Information Technology" SGS
+1575260467609:course-list
+1575260475174:help course-assign-deputy
+1575260481100:course-assign-deputy 9 1
+1575260486337:course-assign-director 9 1
+1575260489344:course-list
+1575260494476:course-assign-director 9 2
+1575260496884:course-get 9
+1575260501564:help
+1575260503721:unit-list
+1575260510203:help unit-create
+1575260523378:unit-create 5001 "Database Concepts" 9
+1575260527335:unit-create 4001 "Database Concepts" 9
+1575260529294:unit-create 3001 "Database Concepts" 9
+1575260531906:unit-list
+1575260543096:help unit-assign-examiner
+1575260549515:unit-assign-examiner 10 1
+1575260554873:unit-assign-lecturer 10 1
+1575260557155:unit-get 10
+1575260572907:unit-create 2001 "Awesome Course" 9
+1575260576384:unit-list
+1575260583592:unit-assign-lecturer 11 4
+1575260588965:unit-assign-examiner 11 6
+1575260592135:course-list
+1575260595190:course-get-units 9
+1575260602261:unit-delete 10
+1575260605163:course-get-units 9
+1575260610850:unit-delete 11
+1575260613363:course-get-units 11
+1575260615668:unit-list
+1575260620653:course-get-units 9
+1575260623806:course-list
+1575260626869:course-delete 9
+1575260628104:course-list
+1575261941408:help course-create
+1575261955395:course-create COSC "Information Tech" AAA BBB
+1575261964665:course-create COSC "Information Tech"  SGS
+1575261969778:course-create COSC "Information Tech" AAA SGS
+1575261991864:course-create COSC "Information Tech" UG SGS
+1575261995706:course-list
+1575262246634:help course-create
+1575262254282:unit-list
+1575262256187:help unit-create
+1575262265607:unit-create 1001
+1575262273695:unit-create 1001 "A" 9
+1575262280591:unit-create 001 "A" 9
+1575262285834:unit-create 4001 "A" 9
+1575262547345:unit-list
+1575262552878:course-list
+1575262555087:course-create
+1575262562169:course-create "COSC" "IT"
+1575262577788:course-list
+1575262584368:# asdf
+1575262587796:// adf
+1575262595457:unit-list
+1575262600658:unit-create help
+1575262602390:help unit-create
+1575262618890:unit-create 1001 "YO" 4 9
+1575262630868:course-create "COSC" "IT"
+1575262643510:unit-create 4001 "YO" 3 9
+1575262699950:// type help for available commands
+1575262701012:help
+1575262706882:// get list of staffs
+1575262709295:get-staff
+1575262715466:staff-get
+1575262744995:// use 'help' for list of available commands
+1575262746024:help
+1575262753848:// get the staff list by 'staff-list'
+1575262756234:staff-list
+1575262761399:// get individual staff
+1575262763444:staff-get 8
+1575262769081:// get list of courses
+1575262770524:course-list
+1575262778925:// there is no course, let create one using 'course-create'
+1575262787920:// let find ou t what 'course-create' accepts as params
+1575262790032:help course-create
+1575262813059:course-create COSC "Information Technology" INVALIDCOURSETYPE INVALIDCAMPUS
+1575262820722:course-create COSC "Information Technology" UG INVALIDCAMPUS
+1575262823341:course-create COSC "Information Technology" UG SGS
+1575262829095:// see hte list of the course again
+1575262830273:course-list
+1575262840030:// let create another one this time PG
+1575262862914:course-create MAS1 "A course - master" PG HN
+1575262864942:course-list
+1575262872054:// to see individual course
+1575262874498:course-get 9
+1575262898450:// to assign director and deputy to course use course-assign-director and course-assign-deputy
+1575262901503:help course-assign-director
+1575262907188:course-assign-director 9 1
+1575262916389:// if you assign deputy same as director it will not work
+1575262917695:course-list
+1575262922234:course-assign-deputy 9 1
+1575262926689:course-list
+1575262935062:// see the deputy still empty
+1575262939604:// let assign another staff as deputy
+1575262943988:course-assign-deputy 9 2
+1575262946157:course-list
+1575262949564:// all works now
+1575262956248:unit-list
+1575262962311:// let create a unit
+1575262964135:help unit-create
+1575262978604:// let test the invalid code check bhy passing invalid code
+1575263005817:unit-create 4001 "This unit is invalid since 4th year can't be for UG course" 100 9
+1575263009945:unit-create 4001 "This unit is invalid since 4th year can't be for UG course" 3 9
+1575263047677:// type help for help
+1575263048337:help
+1575263054191:// get list of staff
+1575263055739:staff-list
+1575263058973:// see individual staff
+1575263060595:staff-get 8
+1575263065131:// get list of courses
+1575263066546:course-list
+1575263076623:// show an individual course
+1575263078193:course-show 9
+1575263127921:// type help for available commands
+1575263128694:help
+1575263133455:// get list of staffs
+1575263134858:staff-list
+1575263140375:// get an individual staff
+1575263143897:staff-get 5
+1575263150570:// list see the course list
+1575263151855:course-list
+1575263161462:// let create a new one by using 'course-create'
+1575263163763:help course-create
+1575263169160:course-create "COSC"
+1575263181495:course-create "COSC" "Information Technology" INVALIDCOURSETYPE INVALIDCAMPUS
+1575263188290:course-create "COSC" "Information Technology" UG INVALIDCAMPUS
+1575263190165:course-create "COSC" "Information Technology" UG SGS
+1575263200652:course-create "EEET" "Software Engineering" UG HN
+1575263210005:course-create "MAS1" "Master 1" PG SGS
+1575263215076:// now let see the created courses
+1575263217028:course-list
+1575263225019:// to see an individual course use course-get
+1575263227099:course-get 9
+1575263234684:// let assign director and deputy to this course
+1575263240141:help course-assign-deputy
+1575263244647:course-assign-deputy 9 5
+1575263328741:// type help for available commands
+1575263329397:help
+1575263335635:// get list of staffs
+1575263336843:staff-list
+1575263344257:// see detail of an individual staff
+1575263346764:staff-get 8
+1575263355308:// see list of courses
+1575263358648:course-list
+1575263364390:// let create a new one using course-create
+1575263368341:// let see what that command accepts
+1575263370721:help course-create
+1575263382899:course-create COSC "Information Technology" INVALIDTYPE INVALIDCAMPUS
+1575263392334:// as u can see campus and type must be set correctly
+1575263397153:course-create COSC "Information Technology" UG INVALIDCAMPUS
+1575263399040:course-create COSC "Information Technology" UG SGS
+1575263404053:// let create another one
+1575263413413:course-create EEET "Software Engineering" UG HN
+1575263423318:course-create MAS1 "Master 1" PG SGS
+1575263429244:// let see the list of the course again
+1575263430847:course-list
+1575263440818:// we can assign director and deputy by using another commands
+1575263446665:help course-assign-deputy
+1575263453327:course-assign-deputy 9 99
+1575263455148:course-assign-deputy 9 1
+1575263458089:course-get 9
+1575263473862:// if we set director to the same as deputy, it won't persist since it violates the business logic'
+1575263485187:// let try to set Dr Minh Dinh as director to that course
+1575263491357:course-assign-director 9 1
+1575263495559:course-get 9
+1575263501367:// it doesn't work, which is good\n'
+1575263509577:// let assign another staff as director
+1575263514262:course-assign-director 9 2
+1575263516266:course-list
+1575263528844:// to delete a course use course-delete
+1575263531346:help course-delete
+1575263533893:course-delete 10
+1575263535144:course-list
+1575263539548:// 10 has been deleted
+1575263550532:// to see list of units for a course, use course-get-units
+1575263554811:help course-get-units 9
+1575263562092:help course-get-units
+1575263565769:course-get-units 9
+1575263570987:// no unit,ler create one
+1575263573209:help unit-create
+1575263589883:// let try with invalid codes to see if the error checking works
+1575263608683:unit-create 9999 "Database Concept" 3 9
+1575263617941:course-list
+1575263633054:// since Information Technology is UG course, code has to eb begin with 1 > 3
+1575263644072:unit-create 1001 "Database Concept" 3 9
+1575263670893:unit-list
+1575263672598:unit-create
+1575263674824:help unit-create
+1575263676796:cpirse=-
+1575263678050:course-list
+1575263694324:unit-create 1001 "Yo yo" 3 9
+1575263698778:stacktrace
+1575263733849:unit-create 1001 "yo yo" 3 9
+1575263831029:unit-create 1001 "Yo yo" 3 9
+1575263840828:unit-list
+1575263842637:unit-delete 16
+1575263844048:unit-list
+1575263871925:// to see list of available commands type 'help'
+1575263872833:help
+1575263878357:// get list of the staffs
+1575263880715:staff-list
+1575263887434:// to see detail of an individual staff use staff-get
+1575263890664:help staff-get
+1575263893566:staff-get 7
+1575263898720:// see list of course
+1575263900261:course-list
+1575263907014:// there is none, let's create some\n'
+1575263909534:help course-create
+1575263928550:course-create "COSC" "Information Technology" INVALIDCOURSETYPE INVALIDCAMPUS
+1575263935287:course-create "COSC" "Information Technology" UG INVALIDCAM
+1575263937338:course-create "COSC" "Information Technology" UG SGS
+1575263952774:course-create "EEET" "Electrical Engineering" UG HN
+1575263954558:course-list
+1575263969469:// to assign director and deputy we can use course-assign-director and course-assign-deputy commands
+1575263974891:help course-assign-director
+1575263982530:course-assign-director 9 1
+1575263993697:// if you assign deputy for a course same as director, it will reject
+1575263999456:course-assign-deputy 9 1
+1575264001983:course-get 9
+1575264010428:// let set deputy to another staff
+1575264013014:course-assign-deputy 9 2
+1575264016401:course-get 9
+1575264020517:// it works as expected
+1575264028229:// to see the list of units for ac ourse, use course-get-units
+1575264030463:help course-get-units
+1575264033777:course-get-units 9
+1575264043566:// let create some units using invalid inputs to see error checking works
+1575264046381:help unit-create
+1575264063814:unit-create 9001 "Database Concept" 1 9
+1575264069382:unit-create 8001 "Database Concept" 1 9
+1575264082371:// since course 9 is a UG, valid unit code must begins with 1 > 3
+1575264085239:unit-create 1001 "Database Concept" 1 9
+1575264090125:course-get-units 9
+1575264098476:unit-create 2001 "Another course" 2 9
+1575264106686:unit-create 2001 "Amazing course" 3 9
+1575264110947:unit-create 3001 "Amazing course" 1 9
+1575264116910:course-get-units 9
+1575264130902:// we can assign chief examiner and lecture using unit-assign-examiner and unit-assign-lecturer commands
+1575264133684:help unit-assign-examiner
+1575264141996:unit-assign-examiner 13 1
+1575264150723:// lecturer can be the same as examiner
+1575264156955:unit-assign-lecturer 13 1
+1575264160491:course-get-units 9
+1575264168232:unit-assign-lecturer 11 5
+1575264170523:unit-assign-lecturer 11 8
+1575264172583:course-get-units 9
+1575264185311:// to delete an unit use unit-delete
+1575264187058:help unit-delete
+1575264190138:unit-delete 12
+1575264193586:course-get-units 9
+1575264201042:// to delete a course use course-delete
+1575264202271:course-list
+1575264204564:course-delete 10
+1575264206028:course-list
+1575264212573:// to exit type exit
+1575264213516:exit
+1575264251045:help
+1575264318160:exit
